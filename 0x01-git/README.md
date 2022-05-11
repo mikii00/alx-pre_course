@@ -1,1 +1,2 @@
-##Git training project
+##Git training project and coding
+
